@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "title": "sheets & solutions",
+      "hasNestedButtons": true,
+      "value": [
+        {
+          "title": "sheet 1",
+          "label": "Properties of pure substance & Ideal gases",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1JdrXyR7JQlgXlM_P4FxSoapyiPZh8ARr/view",
+            "togglePdf": "https://drive.google.com/file/d/1anBAuawA6xhhhKqTK22GDWSXwGrYl_Ud/view"
+          }
+        },
+        {
+          "title": "sheet 2 ",
+          "label": "Boundry Work",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1Y_ikbpU5BVByMs5eW9dez3AIuLU2Y2fU/view",
+            "togglePdf": "https://drive.google.com/file/d/1LtLzU8SL3UL9AXtNUHUzrQ-Wfm2UaFLM/view"
+          }
+        },
+        {
+          "title": "sheet 3",
+          "label": "applications on First law",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1QRl8LZfjbAL4cQOEcqSH72YConfHoK7C/view"
+          }
+        },
+        {
+          "title": "Thermo Rev",
+          "label": "المسائل اللي الدكتور بعتها قي الاخر ",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/157OFxXqr99qpbQGnDPSirUMOh9GG35Lx/view"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Lectures summary",
+      "hasNestedButtons": true,
+      "value": [
+        {
+          "title": "lec 1",
+          "label": "intro - types of equlibrium - thermodynamics laws - forms of energy -tv diagram",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1RlhyMUiCbuv7a9SN1YIvxr1YLrvsiXa8/view"
+          }
+        },
+        {
+          "title": "lec 2",
+          "label": "tabels - tv & pv diagrams",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/13lBMswsD41PMlx3EAl04fqZGrW5kwTee/view"
+          }
+        },
+        {
+          "title": "lec 3",
+          "label": "chart - some concepts - Ideal gases",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1mAzDKj6vCH2kfCVv3pi5HOxleD2Dit6-/view"
+          }
+        },
+        {
+          "title": "lec 4",
+          "label": "First law of thermodynamics Closed System",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1J7sfRHJqq8UWJI1OkMCfW0DKuwLbRW14/view"
+          }
+        },
+        {
+          "title": "lec 5",
+          "label": "boundry work - Problems on Closed system",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1fc_iIdwjgumCZte5u8_pJ4vC8B7wFPpN/view"
+          }
+        },
+        {
+          "title": "lec 6",
+          "label": "Open systems",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1rqlGTnspg4xkeVmLJj_PDNVpbAZMb7fd/view"
+          }
+        }
+      ]
+    },
+    {
+      "title": "videos",
+      "label": " ",
+      "hasNestedButtons": true,
+      "value": [
+        {
+          "title": "Islam",
+          "label": "Isalm Magdy Mechanical Engineering",
+          "value": {
+            "video": {
+              "h1": "",
+              "rec": "https://www.youtube.com/playlist?list=PLkOpA9uAb9H1AiY3nF0jTHkPgemLmFUkt"
+            }
+          }
+        },
+        {
+          "title": "dr Mohamed Ismail",
+          "label": "Thermo Dynamivs ,  first law ",
+          "value": {
+            "video": {
+              "h1": "",
+              "rec": "https://www.youtube.com/playlist?list=PLK7z7Hx0HInTLkMlxql_wxY1sjEJcDpp6"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "summaries",
+      "label": " ",
+      "hasNestedButtons": true,
+      "value": [
+        {
+          "title": "Definitions",
+          "label": "",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1CIt7LVmkhb1vz4V4Um3_hJssD5ZORPoH/view"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Lectures",
+      "hasNestedButtons": true,
+      "value": [
+        {
+          "title": "lec 1",
+          "label": "",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1N9WuEEwgIYKsZcEJol9OAPeBor8MO-I1/view"
+          }
+        },
+        {
+          "title": "lec 2",
+          "label": "",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/16I-oxMo8z9iPeOu0-5vlu9AIKoZMIn1p/view"
+          }
+        },
+        {
+          "title": "lec 3",
+          "label": "",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1SZZx2ibxvohkiWGmvEOXgeHHy7RTtjHO/view"
+          }
+        },
+        {
+          "title": "lec 5",
+          "label": "",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1IitG514ejysUfkZ1hQOIWuS6oH67Ugc8/view"
+          }
+        }
+      ]
+    }
+  ]
+}
